@@ -1,0 +1,27 @@
+{
+  "name": "examen-abraxas",
+  "version": "1.0.0",
+  "description": "abraxas exam",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "neo4j-driver": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/Examen-Abraxas.git"
+  },
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/Examen-Abraxas/issues"
+  },
+  "homepage": "https://github.com/Cereceres/Examen-Abraxas#readme"
+}
